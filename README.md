@@ -5,6 +5,8 @@ A RAG-powered chatbot that answers laptop-related questions using a curated know
 Ask it things like *"Which laptop is best for coding?"* or *"Best gaming laptop under budget?"* and it retrieves relevant context from a local knowledge base before generating a grounded answer, with sources shown for transparency.
 
 ---
+# Link
+https://laptop-advisor-ai-nyspaw4snktw8cjjiisfsi.streamlit.app/
 
 ## ✨ Features
 
