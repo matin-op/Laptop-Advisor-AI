@@ -16,7 +16,7 @@ https://laptop-advisor-ai-nyspaw4snktw8cjjiisfsi.streamlit.app/
 - ⚡ **Suggestion chips** — quick-start prompts for first-time users
 - 🎨 **Custom UI** — styled chat bubbles and a clean, modern layout
 - 🛡️ **Input sanitization** — user input is escaped before rendering to prevent HTML/script injection
-
+- 🔨 **Built in Tools** — tools like calculator, comparison, EMI are built in
 ---
 
 ## 🛠️ Tech Stack
