@@ -497,7 +497,7 @@ def init_rag_pipeline():
     api_key = os.environ["GEMINI_API_KEY"]
 
     llm = ChatGoogleGenerativeAI(
-        model="gemini-3-flash-preview",
+        model="gemini-3.1-flash-lite",
         google_api_key=api_key,
     )
     llm_with_tools = llm.bind_tools(TOOLS)
